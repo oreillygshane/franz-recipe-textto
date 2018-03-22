@@ -1,0 +1,13 @@
+{
+  "id": "textto",
+  "name": "textto",
+  "version": "1.0.1",
+  "description": "textto",
+  "main": "index.js",
+  "author": "Shane O'Reilly <oreilly.g.shane@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/oreillygshane/franz-recipe-textto",
+  "config": {
+    "serviceURL": "https://textto.io/threads"
+  }
+}
